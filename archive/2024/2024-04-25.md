@@ -1,33 +1,14 @@
 # 每日安全资讯（2024-04-25）
 
-- Legacyy
-  - [ETW-ByeBye: Disabling ETW-TI Without PPL](http://legacyy.xyz/defenseevasion/windows/2024/04/24/disabling-etw-ti-without-ppl.html)
-- Trustwave Blog
-  - [Trustwave Named a Trail Blazer in Radicati Secure Email Market Quadrant 2024 Report](https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/trustwave-named-a-trail-blazer-in-radicati-secure-email-market-quadrant-2024-report/)
 - Zgao's blog
   - [iOS逆向(六)-某水印相机破解分析](https://zgao.top/ios%e9%80%86%e5%90%91%e5%85%ad-%e6%9f%90%e6%b0%b4%e5%8d%b0%e7%9b%b8%e6%9c%ba%e7%a0%b4%e8%a7%a3%e5%88%86%e6%9e%90/)
-- 安全客-有思想的安全新媒体
-  - [研究：把XDR安全工具改造成超级恶意软件](https://www.anquanke.com/post/id/295958)
-  - [AngryGF：每周只需 6.99 美元，你的虚拟女友就会恨你](https://www.anquanke.com/post/id/295948)
-  - [朝鲜黑客组织攻击数十家韩国国防公司](https://www.anquanke.com/post/id/295952)
-  - [CoralRaider 攻击使用 CDN 缓存推送信息窃取恶意软件](https://www.anquanke.com/post/id/295949)
-  - [Keras API 缺陷导致 TensorFlow AI 模型面临风险](https://www.anquanke.com/post/id/295945)
-  - [美国“很大一部分”公民个人信息数据在 Change Healthcare 勒索软件攻击中被盗](https://www.anquanke.com/post/id/295943)
-  - [俄罗斯黑客声称对美国印第安纳水厂实施网络攻击](https://www.anquanke.com/post/id/295937)
-  - [Apache Cordova App Harness成为依赖混淆攻击的目标](https://www.anquanke.com/post/id/295938)
-- paper - Last paper
-  - [N-days Chaining 漏洞利用分析 Part 2 ：Chrome 沙盒逃逸](https://paper.seebug.org/3155/)
-- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
-  - [Check Point 再次革新电子邮件安全防护：获得专利的统一管理功能可帮助提高效率和生产力](https://www.4hou.com/posts/NKVv)
-- Security Boulevard
-  - [What is Penetration Testing: A comprehensive business guide](https://securityboulevard.com/2024/04/what-is-penetration-testing-a-comprehensive-business-guide/)
-  - [Best Practices to Strengthen VPN Security](https://securityboulevard.com/2024/04/best-practices-to-strengthen-vpn-security/)
-  - [Cradlepoint Adds SASE Platform for 5G Wireless Networks](https://securityboulevard.com/2024/04/cradlepoint-adds-sase-platform-for-5g-wireless-networks/)
-  - [BTS #28 – 5G Hackathons – Casey Ellis](https://securityboulevard.com/2024/04/bts-28-5g-hackathons-casey-ellis/)
-  - [CCPA Compliance with Accutive Data Discovery and Masking: Understanding and protecting your sensitive data](https://securityboulevard.com/2024/04/ccpa-compliance-with-accutive-data-discovery-and-masking-understanding-and-protecting-your-sensitive-data/)
-  - [What the Seceon team is excited for at #KaseyaConnect24](https://securityboulevard.com/2024/04/what-the-seceon-team-is-excited-for-at-kaseyaconnect24/)
-- Immersive Labs
-  - [Immersive Labs and Virtually Testing Foundation Team Up to Empower Cybersecurity Job Seekers and Professionals](https://www.immersivelabs.com/blog/immersive-labs-and-virtually-testing-foundation-team-up-to-empower-cybersecurity-job-seekers-and-professionals/)
+- 绿盟科技技术博客
+  - [RSAC 2024创新沙盒｜Antimatter：全方位数据安全管理利器](https://blog.nsfocus.net/innovation-sandboxantimatter/)
+  - [RSAC 2024创新沙盒｜RAD Security：云原生异常行为检测和响应新方案](https://blog.nsfocus.net/rsac-2024innovation-sandbox-rad-security/)
+  - [RSAC 2024创新沙盒｜Mitiga：新一代云和SaaS 事件响应解决方案](https://blog.nsfocus.net/rsacinnovation-sandboxmitiga/)
+  - [绿盟科技威胁周报（2024.04.15-2024.04.21）](https://blog.nsfocus.net/weeklyreport202416/)
+- Trustwave Blog
+  - [Trustwave Named a Trail Blazer in Radicati Secure Email Market Quadrant 2024 Report](https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/trustwave-named-a-trail-blazer-in-radicati-secure-email-market-quadrant-2024-report/)
 - Files ≈ Packet Storm
   - [Apache Solr Backup/Restore API Remote Code Execution](https://packetstormsecurity.com/files/178255/apache_solr_backup_restore.rb.txt)
   - [Ubuntu Security Notice USN-6748-1](https://packetstormsecurity.com/files/178254/USN-6748-1.txt)
@@ -52,31 +33,6 @@
   - [Red Hat Security Advisory 2024-1992-03](https://packetstormsecurity.com/files/178235/RHSA-2024-1992-03.txt)
   - [Red Hat Security Advisory 2024-1989-03](https://packetstormsecurity.com/files/178234/RHSA-2024-1989-03.txt)
   - [Red Hat Security Advisory 2024-1982-03](https://packetstormsecurity.com/files/178233/RHSA-2024-1982-03.txt)
-- 先知安全技术社区
-  - [【翻译】ATTACKING AN EDR （从EDR产品设计角度寻找缺陷实现绕过） 第二篇](https://xz.aliyun.com/t/14359)
-  - [PHP代码审计——cmseasy漏洞斩获CVE+2](https://xz.aliyun.com/t/14358)
-  - [先知安全沙龙(西安站) - 浅谈XSS漏洞挖掘与构造思路](https://xz.aliyun.com/t/14357)
-  - [先知安全沙龙(西安站) - 金融行业安全众测背后的故事](https://xz.aliyun.com/t/14356)
-  - [【翻译】威胁狩猎：apt组织ToddyCat通过网络隧道窃取敏感信息](https://xz.aliyun.com/t/14355)
-  - [先知安全沙龙(西安站) - AI在内存马识别领域的应用](https://xz.aliyun.com/t/14354)
-- 绿盟科技技术博客
-  - [RSAC 2024创新沙盒｜Antimatter：全方位数据安全管理利器](https://blog.nsfocus.net/innovation-sandboxantimatter/)
-  - [RSAC 2024创新沙盒｜RAD Security：云原生异常行为检测和响应新方案](https://blog.nsfocus.net/rsac-2024innovation-sandbox-rad-security/)
-  - [RSAC 2024创新沙盒｜Mitiga：新一代云和SaaS 事件响应解决方案](https://blog.nsfocus.net/rsacinnovation-sandboxmitiga/)
-  - [绿盟科技威胁周报（2024.04.15-2024.04.21）](https://blog.nsfocus.net/weeklyreport202416/)
-- Sploitus.com Exploits RSS Feed
-  - [Nginx 1.25.5 Host Header Validation Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-39587&utm_source=rss&utm_medium=rss)
-  - [Apache Solr Backup/Restore API Remote Code Execution Exploit exploit](https://sploitus.com/exploit?id=1337DAY-ID-39589&utm_source=rss&utm_medium=rss)
-  - [Relate Learning And Teaching System SSTI / Remote Code Execution exploit](https://sploitus.com/exploit?id=PACKETSTORM:178251&utm_source=rss&utm_medium=rss)
-  - [Nginx 1.25.5 Host Header Validation exploit](https://sploitus.com/exploit?id=PACKETSTORM:178250&utm_source=rss&utm_medium=rss)
-  - [Apache Solr Backup/Restore API Remote Code Execution exploit](https://sploitus.com/exploit?id=PACKETSTORM:178255&utm_source=rss&utm_medium=rss)
-  - [Relate Learning And Teaching System SSTI / Remote Code Execution Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-39588&utm_source=rss&utm_medium=rss)
-  - [Exploit for Deserialization of Untrusted Data in Vmware Spring For Apache Kafka exploit](https://sploitus.com/exploit?id=3419C82F-9274-55A7-959B-7ED3E9FEC36C&utm_source=rss&utm_medium=rss)
-  - [Exploit for Injection in Glpi-Project Glpi exploit](https://sploitus.com/exploit?id=2E13377A-1B98-5B51-816C-E3B8C804A26A&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2024-2961 exploit](https://sploitus.com/exploit?id=71B1BAA3-CEB6-5BD0-8250-C9D5BB554512&utm_source=rss&utm_medium=rss)
-  - [Exploit for Command Injection in Paloaltonetworks Pan-Os exploit](https://sploitus.com/exploit?id=D86F54F8-615E-5F8B-8EBF-99CB3C3341B1&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2024-33438 exploit](https://sploitus.com/exploit?id=EF7210E4-72F5-5C62-97E9-90F6B05BB515&utm_source=rss&utm_medium=rss)
-  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Jetbrains Teamcity exploit](https://sploitus.com/exploit?id=2E2BBBCF-86AE-554A-8A24-09854CE312E5&utm_source=rss&utm_medium=rss)
 - HackerNoon
   - [Resolving the FOUC Issue in Next.js App Routes](https://hackernoon.com/resolving-the-fouc-issue-in-nextjs-app-routes?source=rss)
   - [Product Hypothesis Validation: Best Practices & Examples](https://hackernoon.com/product-hypothesis-validation-best-practices-and-examples?source=rss)
@@ -89,12 +45,54 @@
   - [The Noonification: Memes and Narrative Strategies in the Russo-Ukrainian War: A Comprehensive Study (4/24/2024)](https://hackernoon.com/4-24-2024-noonification?source=rss)
   - [Ethereum Wavers with a Volume Drop, Shiba Inu Soars by 164%, & Furrever Token Over $1M in Presales](https://hackernoon.com/ethereum-wavers-with-a-volume-drop-shiba-inu-soars-by-164percent-and-furrever-token-over-$1m-in-presales?source=rss)
   - [Nitsa Nakos: Illuminating Success With the Art of Conscious Leadership](https://hackernoon.com/nitsa-nakos-illuminating-success-with-the-art-of-conscious-leadership?source=rss)
+- SecWiki News
+  - [SecWiki News 2024-04-24 Review](http://www.sec-wiki.com/?2024-04-24)
+- 安全客-有思想的安全新媒体
+  - [研究：把XDR安全工具改造成超级恶意软件](https://www.anquanke.com/post/id/295958)
+  - [AngryGF：每周只需 6.99 美元，你的虚拟女友就会恨你](https://www.anquanke.com/post/id/295948)
+  - [朝鲜黑客组织攻击数十家韩国国防公司](https://www.anquanke.com/post/id/295952)
+  - [CoralRaider 攻击使用 CDN 缓存推送信息窃取恶意软件](https://www.anquanke.com/post/id/295949)
+  - [Keras API 缺陷导致 TensorFlow AI 模型面临风险](https://www.anquanke.com/post/id/295945)
+  - [美国“很大一部分”公民个人信息数据在 Change Healthcare 勒索软件攻击中被盗](https://www.anquanke.com/post/id/295943)
+  - [俄罗斯黑客声称对美国印第安纳水厂实施网络攻击](https://www.anquanke.com/post/id/295937)
+  - [Apache Cordova App Harness成为依赖混淆攻击的目标](https://www.anquanke.com/post/id/295938)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [Check Point 再次革新电子邮件安全防护：获得专利的统一管理功能可帮助提高效率和生产力](https://www.4hou.com/posts/NKVv)
+- Legacyy
+  - [ETW-ByeBye: Disabling ETW-TI Without PPL](http://legacyy.xyz/defenseevasion/windows/2024/04/24/disabling-etw-ti-without-ppl.html)
+- 先知安全技术社区
+  - [【翻译】ATTACKING AN EDR （从EDR产品设计角度寻找缺陷实现绕过） 第二篇](https://xz.aliyun.com/t/14359)
+  - [PHP代码审计——cmseasy漏洞斩获CVE+2](https://xz.aliyun.com/t/14358)
+  - [先知安全沙龙(西安站) - 浅谈XSS漏洞挖掘与构造思路](https://xz.aliyun.com/t/14357)
+  - [先知安全沙龙(西安站) - 金融行业安全众测背后的故事](https://xz.aliyun.com/t/14356)
+  - [【翻译】威胁狩猎：apt组织ToddyCat通过网络隧道窃取敏感信息](https://xz.aliyun.com/t/14355)
+  - [先知安全沙龙(西安站) - AI在内存马识别领域的应用](https://xz.aliyun.com/t/14354)
 - InfoSec Write-ups - Medium
   - [Hack Stories: Hacking Hackers EP:3](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-3-11b1f0e002e8?source=rss----7b722bfd1b8d---4)
-- InfoSec Write-ups - Medium
-  - [Hack Stories: Hacking Hackers EP:3](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-3-11b1f0e002e8?source=rss----7b722bfd1b8d---4)
-- ProjectDiscovery Blog
-  - [AWS Cloud Security Config Review using Nuclei Templates](https://blog.projectdiscovery.io/aws-cloud-security-config-review-using-nuclei-templates/)
+- Immersive Labs
+  - [Immersive Labs and Virtually Testing Foundation Team Up to Empower Cybersecurity Job Seekers and Professionals](https://www.immersivelabs.com/blog/immersive-labs-and-virtually-testing-foundation-team-up-to-empower-cybersecurity-job-seekers-and-professionals/)
+- paper - Last paper
+  - [N-days Chaining 漏洞利用分析 Part 2 ：Chrome 沙盒逃逸](https://paper.seebug.org/3155/)
+- Security Boulevard
+  - [What is Penetration Testing: A comprehensive business guide](https://securityboulevard.com/2024/04/what-is-penetration-testing-a-comprehensive-business-guide/)
+  - [Best Practices to Strengthen VPN Security](https://securityboulevard.com/2024/04/best-practices-to-strengthen-vpn-security/)
+  - [Cradlepoint Adds SASE Platform for 5G Wireless Networks](https://securityboulevard.com/2024/04/cradlepoint-adds-sase-platform-for-5g-wireless-networks/)
+  - [BTS #28 – 5G Hackathons – Casey Ellis](https://securityboulevard.com/2024/04/bts-28-5g-hackathons-casey-ellis/)
+  - [CCPA Compliance with Accutive Data Discovery and Masking: Understanding and protecting your sensitive data](https://securityboulevard.com/2024/04/ccpa-compliance-with-accutive-data-discovery-and-masking-understanding-and-protecting-your-sensitive-data/)
+  - [What the Seceon team is excited for at #KaseyaConnect24](https://securityboulevard.com/2024/04/what-the-seceon-team-is-excited-for-at-kaseyaconnect24/)
+- Sploitus.com Exploits RSS Feed
+  - [Nginx 1.25.5 Host Header Validation Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-39587&utm_source=rss&utm_medium=rss)
+  - [Apache Solr Backup/Restore API Remote Code Execution Exploit exploit](https://sploitus.com/exploit?id=1337DAY-ID-39589&utm_source=rss&utm_medium=rss)
+  - [Nginx 1.25.5 Host Header Validation exploit](https://sploitus.com/exploit?id=PACKETSTORM:178250&utm_source=rss&utm_medium=rss)
+  - [Relate Learning And Teaching System SSTI / Remote Code Execution exploit](https://sploitus.com/exploit?id=PACKETSTORM:178251&utm_source=rss&utm_medium=rss)
+  - [Relate Learning And Teaching System SSTI / Remote Code Execution Vulnerability exploit](https://sploitus.com/exploit?id=1337DAY-ID-39588&utm_source=rss&utm_medium=rss)
+  - [Apache Solr Backup/Restore API Remote Code Execution exploit](https://sploitus.com/exploit?id=PACKETSTORM:178255&utm_source=rss&utm_medium=rss)
+  - [Exploit for Deserialization of Untrusted Data in Vmware Spring For Apache Kafka exploit](https://sploitus.com/exploit?id=3419C82F-9274-55A7-959B-7ED3E9FEC36C&utm_source=rss&utm_medium=rss)
+  - [Exploit for Injection in Glpi-Project Glpi exploit](https://sploitus.com/exploit?id=2E13377A-1B98-5B51-816C-E3B8C804A26A&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2024-2961 exploit](https://sploitus.com/exploit?id=71B1BAA3-CEB6-5BD0-8250-C9D5BB554512&utm_source=rss&utm_medium=rss)
+  - [Exploit for Command Injection in Paloaltonetworks Pan-Os exploit](https://sploitus.com/exploit?id=D86F54F8-615E-5F8B-8EBF-99CB3C3341B1&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2024-33438 exploit](https://sploitus.com/exploit?id=EF7210E4-72F5-5C62-97E9-90F6B05BB515&utm_source=rss&utm_medium=rss)
+  - [Exploit for Authentication Bypass Using an Alternate Path or Channel in Jetbrains Teamcity exploit](https://sploitus.com/exploit?id=2E2BBBCF-86AE-554A-8A24-09854CE312E5&utm_source=rss&utm_medium=rss)
 - darkreading
   - [KnowBe4 to Acquire Egress](https://www.darkreading.com/cybersecurity-operations/knowbe4-to-acquire-egress)
   - [Black Girls Do Engineer Signs Education Partnership Agreement With NSA](https://www.darkreading.com/cybersecurity-operations/black-girls-do-engineer-signs-education-partnership-agreement-with-nsa)
@@ -105,7 +103,11 @@
   - [2023: A 'Good' Year for OT Cyberattacks](https://www.darkreading.com/endpoint-security/2023-good-year-for-ot-cyberattacks)
   - [Patch Now: CrushFTP Zero-Day Cloud Exploit Targets US Orgs](https://www.darkreading.com/cloud-security/patch-crushftp-zero-day-cloud-exploit-targets-us-orgs)
   - [Fortify AI Training Datasets From Malicious Poisoning](https://www.darkreading.com/cybersecurity-operations/fortify-ai-training-datasets-from-malicious-poisoning)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [Hack Stories: Hacking Hackers EP:3](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-3-11b1f0e002e8?source=rss----7b722bfd1b8d--bug_bounty)
 - Joseph Thacker
   - [Incremental Learning LLM Pattern](http://josephthacker.com/ai/2024/04/24/incremental-learning.html)
+- InfoSec Write-ups - Medium
+  - [Hack Stories: Hacking Hackers EP:3](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-3-11b1f0e002e8?source=rss----7b722bfd1b8d---4)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [Hack Stories: Hacking Hackers EP:3](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-3-11b1f0e002e8?source=rss----7b722bfd1b8d--bug_bounty)
+- ProjectDiscovery Blog
+  - [AWS Cloud Security Config Review using Nuclei Templates](https://blog.projectdiscovery.io/aws-cloud-security-config-review-using-nuclei-templates/)
