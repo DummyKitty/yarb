@@ -32,10 +32,13 @@ jobs:
         run: python3 yarb.py
 
       - name: Commit
+        env:
+          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+          GIT_USERNAME: ${{ secrets.GIT_USERNAME }}
         run: |
           git diff
-          git config --global user.email firmianay@gmail.com
-          git config --global user.name firmianay
+          git config --global user.email "$GIT_EMAIL"
+          git config --global user.name "$GIT_USERNAME"
           git add archive today.md
           git commit -m "每日安全资讯（`date +'%Y-%m-%d'`）"
 

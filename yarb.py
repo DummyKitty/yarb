@@ -91,6 +91,8 @@ def parseThread(conf: dict, url: str, proxy_url=''):
     result = {}
     try:
         r = requests.get(url, timeout=10, headers=headers, verify=False, proxies=proxy)
+        if r.status_code != 200: 
+            raise Exception("request failed: " + str(r.status_code))
         r = feedparser.parse(r.content)
         title = r.feed.title
         for entry in r.entries:
@@ -103,8 +105,8 @@ def parseThread(conf: dict, url: str, proxy_url=''):
                 result |= item
         console.print(f'[+] {title}\t{url}\t{len(result.values())}/{len(r.entries)}', style='bold green')
     except Exception as e:
-        console.print(f'[-] failed: {url}', style='bold red')
-        print(e)
+        console.print(f'[-] failed: {url} reason: {e}', style='bold red')
+        
     return title, result
 
 
