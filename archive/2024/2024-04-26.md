@@ -2,22 +2,10 @@
 
 - Mozilla Hacks – the Web developer blog
   - [Llamafile’s progress, four months in](https://hacks.mozilla.org/2024/04/llamafiles-progress-four-months-in/)
-- GuidePoint Security
-  - [PCI, CASB, CNAPP, and Other Letters](https://www.guidepointsecurity.com/blog/pci-casb-cnapp-and-other-letters/)
-- 绿盟科技技术博客
-  - [用Beyond Compare手工备份](https://blog.nsfocus.net/beyond-compare/)
 - Trustwave Blog
   - [Trustwave SpiderLabs Reveals the Ransomware Threats Targeting Latin American Financial and Government Sectors](https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/trustwave-spiderlabs-reveals-the-ransomware-threats-targeting-latin-american-financial-and-government-sectors/)
-- Security Boulevard
-  - [NodeZero: Testing for Exploitability of Palo Alto Networks CVE-2024-3400](https://securityboulevard.com/2024/04/nodezero-testing-for-exploitability-of-palo-alto-networks-cve-2024-3400/)
-  - [USENIX Security ’23 – LibScan: Towards More Precise Third-Party Library Identification for Android Applications](https://securityboulevard.com/2024/04/usenix-security-23-libscan-towards-more-precise-third-party-library-identification-for-android-applications/)
-  - [North American Developers Optimistic About Generative AI and Code Security](https://securityboulevard.com/2024/04/n-a-developers-optimistic-about-generative-ai-and-code-security/)
-  - [Defending Against ArcaneDoor: How Eclypsium Protects Network Devices](https://securityboulevard.com/2024/04/defending-against-arcanedoor-how-eclypsium-protects-network-devices/)
-  - [AI Adoption Prompts Security Advisory from NSA](https://securityboulevard.com/2024/04/ai-adoption-prompts-security-advisory-from-nsa/)
-  - [AI Data Poisoning: How Misleading Data Is Evading Cybersecurity Protections](https://securityboulevard.com/2024/04/ai-data-poisoning-how-misleading-data-is-evading-cybersecurity-protections/)
-  - [Nemesis 1.0.0](https://securityboulevard.com/2024/04/nemesis-1-0-0/)
-  - [How Momentum is Building for the US Government to Play a Larger Role in Protecting K12 Schools from Cyberattacks](https://securityboulevard.com/2024/04/how-momentum-is-building-for-the-us-government-to-play-a-larger-role-in-protecting-k12-schools-from-cyberattacks/)
-  - [The Role of Threat Intelligence in Financial Data Protection](https://securityboulevard.com/2024/04/the-role-of-threat-intelligence-in-financial-data-protection/)
+- GuidePoint Security
+  - [PCI, CASB, CNAPP, and Other Letters](https://www.guidepointsecurity.com/blog/pci-casb-cnapp-and-other-letters/)
 - CXSECURITY Database RSS Feed - CXSecurity.com
   - [FortiNet FortiClient EMS 7.2.2 / 7.0.10 SQL Injection / Remote Code Execution](https://cxsecurity.com/issue/WLB-2024040065)
   - [Relate Learning And Teaching system Version before 2024.1 SSTI(Markup Sandbox function) lead to RCE](https://cxsecurity.com/issue/WLB-2024040064)
@@ -26,8 +14,19 @@
   - [Hikvision Camera - Remote command execution](https://cxsecurity.com/issue/WLB-2024040061)
   - [Apache Solr Backup/Restore API Remote Code Execution](https://cxsecurity.com/issue/WLB-2024040060)
   - [Nginx 1.25.5 Host Header Validation](https://cxsecurity.com/issue/WLB-2024040059)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2024-4040 exploit](https://sploitus.com/exploit?id=2CF67D96-91FF-5055-BC0E-B570E918952F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2024-2876 exploit](https://sploitus.com/exploit?id=12C0FC6E-2AAF-5240-A41B-244246518994&utm_source=rss&utm_medium=rss)
+  - [Exploit for Vulnerability in Cisco Ios Xe exploit](https://sploitus.com/exploit?id=0004572D-8F1A-5FA0-B583-57259E099827&utm_source=rss&utm_medium=rss)
+- 绿盟科技技术博客
+  - [用Beyond Compare手工备份](https://blog.nsfocus.net/beyond-compare/)
 - SecWiki News
   - [SecWiki News 2024-04-25 Review](http://www.sec-wiki.com/?2024-04-25)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [即将开幕 | 2024中关村国际技术交易大会第八届中国网信产业前锋汇](https://www.4hou.com/posts/V24X)
+  - [360发布国内首款AI信创浏览器，政企打工人多了个最佳拍档](https://www.4hou.com/posts/RKZE)
+  - [为APP开剂「数字处方」！梆梆安全发布《2024年Q1移动应用安全风险报告》](https://www.4hou.com/posts/PK04)
+  - [免费 VPN 应用程序将用户设备变成犯罪代理](https://www.4hou.com/posts/7yEQ)
 - 安全客-有思想的安全新媒体
   - [谷歌修复了 Chrome 浏览器中的严重类型混淆缺陷](https://www.anquanke.com/post/id/295993)
   - [英国莱斯特市遭遇网络攻击后城市路灯无法关闭](https://www.anquanke.com/post/id/296000)
@@ -40,8 +39,40 @@
   - [持续攻击活动：利用钓鱼邮件来传播SSLoad恶意软件](https://www.anquanke.com/post/id/295972)
   - [重大安全漏洞暴露了超过10亿中文键盘应用用户的击键行为](https://www.anquanke.com/post/id/295965)
   - [Cactus 勒索软件袭击新加坡服装巨头 Ghim Li Global](https://www.anquanke.com/post/id/295964)
+- Security Boulevard
+  - [NodeZero: Testing for Exploitability of Palo Alto Networks CVE-2024-3400](https://securityboulevard.com/2024/04/nodezero-testing-for-exploitability-of-palo-alto-networks-cve-2024-3400/)
+  - [USENIX Security ’23 – LibScan: Towards More Precise Third-Party Library Identification for Android Applications](https://securityboulevard.com/2024/04/usenix-security-23-libscan-towards-more-precise-third-party-library-identification-for-android-applications/)
+  - [North American Developers Optimistic About Generative AI and Code Security](https://securityboulevard.com/2024/04/n-a-developers-optimistic-about-generative-ai-and-code-security/)
+  - [Defending Against ArcaneDoor: How Eclypsium Protects Network Devices](https://securityboulevard.com/2024/04/defending-against-arcanedoor-how-eclypsium-protects-network-devices/)
+  - [AI Adoption Prompts Security Advisory from NSA](https://securityboulevard.com/2024/04/ai-adoption-prompts-security-advisory-from-nsa/)
+  - [AI Data Poisoning: How Misleading Data Is Evading Cybersecurity Protections](https://securityboulevard.com/2024/04/ai-data-poisoning-how-misleading-data-is-evading-cybersecurity-protections/)
+  - [Nemesis 1.0.0](https://securityboulevard.com/2024/04/nemesis-1-0-0/)
+  - [How Momentum is Building for the US Government to Play a Larger Role in Protecting K12 Schools from Cyberattacks](https://securityboulevard.com/2024/04/how-momentum-is-building-for-the-us-government-to-play-a-larger-role-in-protecting-k12-schools-from-cyberattacks/)
+  - [The Role of Threat Intelligence in Financial Data Protection](https://securityboulevard.com/2024/04/the-role-of-threat-intelligence-in-financial-data-protection/)
+- 先知安全技术社区
+  - [记一次内网渗透2](https://xz.aliyun.com/t/14364)
+  - [Burp自定义插件实现请求拦截](https://xz.aliyun.com/t/14363)
+  - [CIA组织MikroTik软路由攻击场景复现及后门加解密剖析](https://xz.aliyun.com/t/14361)
+  - [【翻译】威胁狩猎：GuptiMiner劫持杀毒软件更新以分发后门程序和进行隐秘挖矿](https://xz.aliyun.com/t/14360)
 - InfoSec Write-ups - Medium
   - [Understanding 403 Bypass: A Critical Vulnerability in Web Application Security](https://infosecwriteups.com/understanding-403-bypass-a-critical-vulnerability-in-web-application-security-2b9f0318f3a4?source=rss----7b722bfd1b8d---4)
+- Files ≈ Packet Storm
+  - [Ubuntu Security Notice USN-6750-1](https://packetstormsecurity.com/files/178271/USN-6750-1.txt)
+  - [Ubuntu Security Notice USN-6743-3](https://packetstormsecurity.com/files/178270/USN-6743-3.txt)
+  - [Ubuntu Security Notice USN-6657-2](https://packetstormsecurity.com/files/178269/USN-6657-2.txt)
+  - [Ubuntu Security Notice USN-6749-1](https://packetstormsecurity.com/files/178268/USN-6749-1.txt)
+  - [Red Hat Security Advisory 2024-2060-03](https://packetstormsecurity.com/files/178267/RHSA-2024-2060-03.txt)
+  - [Red Hat Security Advisory 2024-2055-03](https://packetstormsecurity.com/files/178266/RHSA-2024-2055-03.txt)
+  - [Red Hat Security Advisory 2024-2045-03](https://packetstormsecurity.com/files/178265/RHSA-2024-2045-03.txt)
+  - [Red Hat Security Advisory 2024-2044-03](https://packetstormsecurity.com/files/178264/RHSA-2024-2044-03.txt)
+  - [Red Hat Security Advisory 2024-2042-03](https://packetstormsecurity.com/files/178263/RHSA-2024-2042-03.txt)
+  - [Red Hat Security Advisory 2024-2041-03](https://packetstormsecurity.com/files/178262/RHSA-2024-2041-03.txt)
+  - [Red Hat Security Advisory 2024-2040-03](https://packetstormsecurity.com/files/178261/RHSA-2024-2040-03.txt)
+  - [Red Hat Security Advisory 2024-2039-03](https://packetstormsecurity.com/files/178260/RHSA-2024-2039-03.txt)
+  - [Red Hat Security Advisory 2024-2038-03](https://packetstormsecurity.com/files/178259/RHSA-2024-2038-03.txt)
+  - [Red Hat Security Advisory 2024-2037-03](https://packetstormsecurity.com/files/178258/RHSA-2024-2037-03.txt)
+  - [Red Hat Security Advisory 2024-2036-03](https://packetstormsecurity.com/files/178257/RHSA-2024-2036-03.txt)
+  - [PowerVR PMRMMapPMR() Writability Check](https://packetstormsecurity.com/files/178256/GS20240425141408.tgz)
 - HackerNoon
   - [Leveraging LLMs for Generation of Unusual Text Inputs in Mobile App Tests: Related Work](https://hackernoon.com/leveraging-llms-for-generation-of-unusual-text-inputs-in-mobile-app-tests-related-work?source=rss)
   - [How to Implement Multi-Group Bar Chart and Interact With Highlighting by Grouping Dimension](https://hackernoon.com/how-to-implement-multi-group-bar-chart-and-interact-with-highlighting-by-grouping-dimension?source=rss)
@@ -63,37 +94,6 @@
   - [Leveraging LLMs for Generation of Unusual Text Inputs in Mobile App Tests: Experiment Design](https://hackernoon.com/leveraging-llms-for-generation-of-unusual-text-inputs-in-mobile-app-tests-experiment-design?source=rss)
   - [How to Find the Stinky Parts of Your Code: 249 - Constants as Numbers](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-249-constants-as-numbers?source=rss)
   - [Generative AI in 2024: Navigating the Evolution from Hype to Transformation](https://hackernoon.com/generative-ai-in-2024-navigating-the-evolution-from-hype-to-transformation?source=rss)
-- Files ≈ Packet Storm
-  - [Ubuntu Security Notice USN-6750-1](https://packetstormsecurity.com/files/178271/USN-6750-1.txt)
-  - [Ubuntu Security Notice USN-6743-3](https://packetstormsecurity.com/files/178270/USN-6743-3.txt)
-  - [Ubuntu Security Notice USN-6657-2](https://packetstormsecurity.com/files/178269/USN-6657-2.txt)
-  - [Ubuntu Security Notice USN-6749-1](https://packetstormsecurity.com/files/178268/USN-6749-1.txt)
-  - [Red Hat Security Advisory 2024-2060-03](https://packetstormsecurity.com/files/178267/RHSA-2024-2060-03.txt)
-  - [Red Hat Security Advisory 2024-2055-03](https://packetstormsecurity.com/files/178266/RHSA-2024-2055-03.txt)
-  - [Red Hat Security Advisory 2024-2045-03](https://packetstormsecurity.com/files/178265/RHSA-2024-2045-03.txt)
-  - [Red Hat Security Advisory 2024-2044-03](https://packetstormsecurity.com/files/178264/RHSA-2024-2044-03.txt)
-  - [Red Hat Security Advisory 2024-2042-03](https://packetstormsecurity.com/files/178263/RHSA-2024-2042-03.txt)
-  - [Red Hat Security Advisory 2024-2041-03](https://packetstormsecurity.com/files/178262/RHSA-2024-2041-03.txt)
-  - [Red Hat Security Advisory 2024-2040-03](https://packetstormsecurity.com/files/178261/RHSA-2024-2040-03.txt)
-  - [Red Hat Security Advisory 2024-2039-03](https://packetstormsecurity.com/files/178260/RHSA-2024-2039-03.txt)
-  - [Red Hat Security Advisory 2024-2038-03](https://packetstormsecurity.com/files/178259/RHSA-2024-2038-03.txt)
-  - [Red Hat Security Advisory 2024-2037-03](https://packetstormsecurity.com/files/178258/RHSA-2024-2037-03.txt)
-  - [Red Hat Security Advisory 2024-2036-03](https://packetstormsecurity.com/files/178257/RHSA-2024-2036-03.txt)
-  - [PowerVR PMRMMapPMR() Writability Check](https://packetstormsecurity.com/files/178256/GS20240425141408.tgz)
-- Sploitus.com Exploits RSS Feed
-  - [Exploit for CVE-2024-4040 exploit](https://sploitus.com/exploit?id=2CF67D96-91FF-5055-BC0E-B570E918952F&utm_source=rss&utm_medium=rss)
-  - [Exploit for CVE-2024-2876 exploit](https://sploitus.com/exploit?id=12C0FC6E-2AAF-5240-A41B-244246518994&utm_source=rss&utm_medium=rss)
-  - [Exploit for Vulnerability in Cisco Ios Xe exploit](https://sploitus.com/exploit?id=0004572D-8F1A-5FA0-B583-57259E099827&utm_source=rss&utm_medium=rss)
-- 先知安全技术社区
-  - [记一次内网渗透2](https://xz.aliyun.com/t/14364)
-  - [Burp自定义插件实现请求拦截](https://xz.aliyun.com/t/14363)
-  - [CIA组织MikroTik软路由攻击场景复现及后门加解密剖析](https://xz.aliyun.com/t/14361)
-  - [【翻译】威胁狩猎：GuptiMiner劫持杀毒软件更新以分发后门程序和进行隐秘挖矿](https://xz.aliyun.com/t/14360)
-- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
-  - [即将开幕 | 2024中关村国际技术交易大会第八届中国网信产业前锋汇](https://www.4hou.com/posts/V24X)
-  - [360发布国内首款AI信创浏览器，政企打工人多了个最佳拍档](https://www.4hou.com/posts/RKZE)
-  - [为APP开剂「数字处方」！梆梆安全发布《2024年Q1移动应用安全风险报告》](https://www.4hou.com/posts/PK04)
-  - [免费 VPN 应用程序将用户设备变成犯罪代理](https://www.4hou.com/posts/7yEQ)
 - darkreading
   - [Chinese Keyboard Apps Open 1B People to Eavesdropping](https://www.darkreading.com/endpoint-security/most-chinese-keyboard-apps-vulnerable-to-eavesdropping)
   - [FTC Issues $5.6M in Refunds to Customers After Ring Privacy Settlement](https://www.darkreading.com/cyber-risk/ftc-issues-5-6m-in-refunds-to-customers-after-ring-privacy-settlement)
@@ -103,14 +103,14 @@
   - [Digital Blitzkrieg: Unveiling Cyber-Logistics Warfare](https://www.darkreading.com/cyberattacks-data-breaches/digital-blitzkrieg-unveiling-cyber-logistics-warfare)
   - [Cisco Zero-Days Anchor 'ArcaneDoor' Cyber Espionage Campaign](https://www.darkreading.com/endpoint-security/cisco-zero-days-arcanedoor-cyberespionage-campaign)
   - [SolarWinds 2024: Where Do Cyber Disclosures Go From Here?](https://www.darkreading.com/cyberattacks-data-breaches/solarwinds-2024-where-do-cyber-disclosures-go-from-here)
-- Bug Bounty in InfoSec Write-ups on Medium
-  - [Understanding 403 Bypass: A Critical Vulnerability in Web Application Security](https://infosecwriteups.com/understanding-403-bypass-a-critical-vulnerability-in-web-application-security-2b9f0318f3a4?source=rss----7b722bfd1b8d--bug_bounty)
 - InfoSec Write-ups - Medium
   - [Understanding 403 Bypass: A Critical Vulnerability in Web Application Security](https://infosecwriteups.com/understanding-403-bypass-a-critical-vulnerability-in-web-application-security-2b9f0318f3a4?source=rss----7b722bfd1b8d---4)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [Understanding 403 Bypass: A Critical Vulnerability in Web Application Security](https://infosecwriteups.com/understanding-403-bypass-a-critical-vulnerability-in-web-application-security-2b9f0318f3a4?source=rss----7b722bfd1b8d--bug_bounty)
 - Team82 Disclosure Dashboard
   - [CVE-2023-5390](https://claroty.com/team82/disclosure-dashboard/cve-2023-5390)
   - [CVE-2023-5389](https://claroty.com/team82/disclosure-dashboard/cve-2023-5389)
-- Checkmarx.com
-  - [SBOM and the Bill that is Coming](https://checkmarx.com/blog/sbom-and-the-bill-that-is-coming/)
 - Black Hills Information Security
   - [Deploy an Active Directory Lab Within Minutes](https://www.blackhillsinfosec.com/deploy-an-active-directory-lab-within-minutes/)
+- Checkmarx.com
+  - [SBOM and the Bill that is Coming](https://checkmarx.com/blog/sbom-and-the-bill-that-is-coming/)
