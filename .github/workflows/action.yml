@@ -48,6 +48,7 @@ jobs:
           github_token: ${{ github.token }}
 
       - name: Get pushed file URL
+        id: generate-file-url
         run: |
           current_year=$(date +%Y)
           current_date=$(date +%Y-%m-%d)
@@ -61,7 +62,7 @@ jobs:
           MATTERMOST_WEBHOOK_URL: ${{ secrets.MM_WEBHOOK_URL }}
           PAYLOAD: |-
             {
-              "text": "New file pushed to ${{ github.repository }}: ${{ steps.generate-file-url.outputs.file_url }}",
+              "text": "New file pushed to ${{ github.repository }}: ${{ steps.generate-file-url.outputs.file_url }}"
             }
 
   del_runs:
