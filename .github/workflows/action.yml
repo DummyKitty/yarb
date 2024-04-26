@@ -47,6 +47,23 @@ jobs:
         with:
           github_token: ${{ github.token }}
 
+      - name: Get pushed file URL
+        run: |
+          current_year=$(date +%Y)
+          current_date=$(date +%Y-%m-%d)
+          file_path="archive/${current_year}/${current_date}.md"
+          file_url="https://github.com/${GITHUB_REPOSITORY}/blob/${GITHUB_SHA}/${file_path}"
+          echo "::set-output name=file_url::${file_url}"
+
+      - name: Notify Mattermost
+        uses: mattermost/action-mattermost-notify@master
+        with:
+          MATTERMOST_WEBHOOK_URL: ${{ secrets.MM_WEBHOOK_URL }}
+          PAYLOAD: |-
+            {
+              "text": "New file pushed to ${{ github.repository }}: ${{ steps.generate-file-url.outputs.file_url }}",
+            }
+
   del_runs:
     runs-on: ubuntu-latest
     steps:
