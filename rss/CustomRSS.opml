@@ -2,6 +2,9 @@
 <opml version="2.0">
 <head><title>CustomRSS</title></head>
 <body>
-<outline title="HackerOne Hacker Activity" text="HackerOne Hacker Activity" htmlUrl="https://hackerone.com/hacktivity" xmlUrl="https://rsshub.app/hackerone/hacktivity" type="rss" />
+<outline title="Aliyun 先知社区" text="Aliyun 先知社区" htmlUrl="https://xz.aliyun.com/" xmlUrl="https://xz.aliyun.com/feed" type="rss" />
+<outline title="jaskammmmmm" text="jaskammmmmm" htmlUrl="https://twitter.com/jaskammmmmm" xmlUrl="https://rss.app/feeds/qbz08wzCr9Fk06yX.xml" type="rss" />
+<outline title="Dinosn" text="Dinosn" htmlUrl="https://twitter.com/Dinosn" xmlUrl="https://rss.app/feeds/zGthM2GNLyibEtyT.xml" type="rss" />
+<outline title="binitamshah" text="binitamshah" htmlUrl="https://twitter.com/binitamshah" xmlUrl="https://rss.app/feeds/iokV06aKELHXzXNL.xml" type="rss" />
 </body>
 </opml>
