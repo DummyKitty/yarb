@@ -1,9 +1,5 @@
 # 每日安全资讯（2024-07-03）
 
-- DumKiy (@jaskammmmmm) / Twitter
-  - [@Dinosn: RT @Dinosn: PoC Exploit Published for Linux Kernel Privilege Escalation Flaw (CVE-2024-0193)](https://twitter.com/Dinosn/status/1807622898783322373)
-  - [@Defte_: RT @Defte_: So I just learnt Windows DOES A LSA HIVES BACKUPS PERIODICALY!!!!! How is it possible I learn this after 5 years of internal as…](https://twitter.com/Defte_/status/1807743567210729910)
-  - [@xaitax: RT @xaitax: For those interested, made a lightweight and efficient scanner designed to identify servers running vulnerable versions of Open…](https://twitter.com/xaitax/status/1807877193734688995)
 - Nicolas Krassas / @Dinosn
   - [@Dinosn: PTC License Server Bug Needs Immediate Patch Against Critical Flaw darkreading.com/ics-ot-securit…](https://twitter.com/Dinosn/status/1808221407123591600)
   - [@Dinosn: China sets its sights on human brain-computer interface standards computerworld.com/article/251294…](https://twitter.com/Dinosn/status/1808221350101934526)
@@ -30,3 +26,7 @@
   - [@Dinosn: Chinese Hackers Exploiting Cisco Switches Zero-Day to Deliver Malware thehackernews.com/2024/07/chines…](https://twitter.com/Dinosn/status/1808030618917167582)
   - [@Dinosn: Meta's 'Pay or Consent' Approach Faces E.U. Competition Rules Scrutiny thehackernews.com/2024/07/metas-…](https://twitter.com/Dinosn/status/1808030576898605315)
   - [@Dinosn: Google Opens $250K Bug Bounty Contest for VM Hypervisor darkreading.com/cloud-security…](https://twitter.com/Dinosn/status/1807986321618620546)
+- DumKiy (@jaskammmmmm) / Twitter
+  - [@Dinosn: RT @Dinosn: PoC Exploit Published for Linux Kernel Privilege Escalation Flaw (CVE-2024-0193)](https://twitter.com/Dinosn/status/1807622898783322373)
+  - [@Defte_: RT @Defte_: So I just learnt Windows DOES A LSA HIVES BACKUPS PERIODICALY!!!!! How is it possible I learn this after 5 years of internal as…](https://twitter.com/Defte_/status/1807743567210729910)
+  - [@xaitax: RT @xaitax: For those interested, made a lightweight and efficient scanner designed to identify servers running vulnerable versions of Open…](https://twitter.com/xaitax/status/1807877193734688995)
