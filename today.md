@@ -1,5 +1,7 @@
-# 每日安全资讯（2026-11-16）
+# 每日安全资讯（2026-11-17）
 
 - 先知安全技术社区
-  - [CVE-2026-115938：Craft CMS 5.11.1 Twig 沙箱逃逸到 RCE 复现](https://xz.aliyun.com/news/93336)
-  - [《Pwn 堆利用实战：House of Lore —— 从自出题 my_lore 到 getshell 全流程》](https://xz.aliyun.com/news/93334)
+  - [CNO/VCO 集群票据复用场景分析](https://xz.aliyun.com/news/93351)
+  - [记一次攻防演练从Shiro默认Key打到集团270个库与六百万条业务数据进入内网](https://xz.aliyun.com/news/93347)
+  - [一个伪造 Bearer 拿下 MCP 会话：LiteLLM MCP OAuth2 passthrough 认证绕过复现与分析](https://xz.aliyun.com/news/93346)
+  - [FastMCP OpenAPI 路径穿越到认证 SSRF 复现与分析](https://xz.aliyun.com/news/93344)
