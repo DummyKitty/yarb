@@ -1,8 +1,4 @@
-# 每日安全资讯（2026-11-20）
+# 每日安全资讯（2026-11-21）
 
-- 先知安全技术社区
-  - [云上攻防之 Azure VM/VMSS 代码执行梳理+第三方扩展拿 access_token](https://xz.aliyun.com/news/93406)
-  - [从一千多个“漏洞”到三处没修完的补丁：给 AI agent 做固件审计工具的经验](https://xz.aliyun.com/news/93403)
-  - [CVE-2026-123007 Nginx HTTP/2 流控窗口整数下溢漏洞分析与利用](https://xz.aliyun.com/news/93402)
-  - [CVE-2026-53676：ThingsBoard 远程 JS 执行器沙箱逃逸漏洞分析](https://xz.aliyun.com/news/93399)
-  - [利用AVX-512越界写漏洞CVE-2026-114938实现Java Base64解码远程代码执行](https://xz.aliyun.com/news/93395)
+- TVN (Taiwan Vulnerability Note) 漏洞公告 - TWCERT/CC台灣電腦網路危機處理暨協調中心|企業資安通報協處|資安情資分享|漏洞通報|資安聯盟|資安電子報
+  - [耀威光電｜智能路燈管理系統 - SQL Injection](https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html)
